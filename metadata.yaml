@@ -1,0 +1,34 @@
+_repo: Her-Weight-in-Gold_5896
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McCutcheon, George Barr
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '1555'
+    url: http://www.gutenberg.org/2009/agents/1555
+    wikipedia: http://en.wikipedia.org/wiki/George_Barr_McCutcheon
+description: 'George Barr McCutcheon (1866-1928) was an American popular novelist
+  and playwright. His best known works include the series of novels set in Graustark,
+  a fictional East European country, Brewster''s Millions, a play and several films.
+  Collected here are his following short stories: "Her Weight in Gold", "The Maid
+  and the Blade", "Mr. Hamshaw''s Love Affair", "The Green Ruby", "The Gloaming Ghosts",
+  "When Girl meets Girl", "Quiddlers Three", "The Late Mr ...'
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5896'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Her weight in gold -- The maid and the blade -- Mr. Hamshaw's love
+  affair -- The green ruby -- The gloaming ghosts -- When girl meets girl -- Quiddlers
+  three -- The late Mr. Taylor -- The ten dollar bill.
+title: Her Weight in Gold
+url: http://www.gutenberg.org/ebooks/5896
