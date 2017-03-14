@@ -1,5 +1,8 @@
 _repo: Her-Weight-in-Gold_5896
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: McCutcheon, George Barr
@@ -14,6 +17,8 @@ description: 'George Barr McCutcheon (1866-1928) was an American popular novelis
   Collected here are his following short stories: "Her Weight in Gold", "The Maid
   and the Blade", "Mr. Hamshaw''s Love Affair", "The Green Ruby", "The Gloaming Ghosts",
   "When Girl meets Girl", "Quiddlers Three", "The Late Mr ...'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5896#Her-Weight-in-Gold
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
